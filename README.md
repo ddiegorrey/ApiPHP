@@ -1,0 +1,1 @@
+En este proyecto se ve un ejemplo claro de como seria una API RESTfull completa en PHP con interacciones en la base de datos , transeferencia de datos y archivos por http y auteniticacion basica de los usuarios
