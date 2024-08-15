@@ -2,10 +2,10 @@
 
 
 class database{
-    private $database = "reyshome";
-    private$host = "localhost";
-    private $password = "";
-    private $user = "user";
+    private $database = "YOUR DATABASE NAME";
+    private$host = "YOUR HOST";
+    private $password = "YOUR PASSWORD";
+    private $user = "YOUR USER";
 
     public function getConnect(){
         $hostDB = "mysql:host=" . $this->host . ";dbname=" . $this->database . ";";
